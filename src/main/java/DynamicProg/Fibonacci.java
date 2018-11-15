@@ -1,5 +1,6 @@
 package DynamicProg;
 
+// 0, 1, 1, 2, 3, 5, 8, ...
 public class Fibonacci {
     public static void main(String args[]){
         System.out.println(fib2(0));
